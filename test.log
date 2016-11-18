@@ -1,0 +1,100 @@
+Symfony\Component\HttpFoundation\Response Object
+(
+    [headers] => Symfony\Component\HttpFoundation\ResponseHeaderBag Object
+        (
+            [computedCacheControl:protected] => Array
+                (
+                    [no-cache] => 1
+                )
+
+            [cookies:protected] => Array
+                (
+                )
+
+            [headerNames:protected] => Array
+                (
+                    [cache-control] => Cache-Control
+                )
+
+            [headers:protected] => Array
+                (
+                    [cache-control] => Array
+                        (
+                            [0] => no-cache
+                        )
+
+                )
+
+            [cacheControl:protected] => Array
+                (
+                )
+
+        )
+
+    [content:protected] => <xml><ToUserName><![CDATA[oJhTysqc6qBLWbIk6tGWkBS7SiLw]]></ToUserName><FromUserName><![CDATA[gh_7c26e835964b]]></FromUserName><CreateTime>1479449296</CreateTime><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！欢迎关注我!]]></Content></xml>
+    [version:protected] => 1.0
+    [statusCode:protected] => 200
+    [statusText:protected] => OK
+    [charset:protected] => 
+)
+r\n
+
+
+{
+    "name": "jenner/message_queue",
+    "description": "php message queue wrapper",
+    "license": "MIT",
+    "keywords": ["message queue"],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Jenner",
+            "email": "hypxm@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+
+    "autoload": {
+        "psr-0": {
+            "Jenner\\Zebra\\MessageQueue": "src/"
+        }
+    }
+}
+
+
+  [73] jsor/proj4php
+  [74] vavrecan/exp4php
+  [75] graphaware/reco4php
+  [76] proj4php/proj4php
+  [77] diginedbv/kloutapiv2-php
+
+Enter package # to add, or the complete package name if it is not listed: 0
+Enter the version constraint to require (or leave blank to use the latest version): 5.3
+Search for a package:
+Would you like to define your dev dependencies (require-dev) interactively [yes]?
+Search for a package:
+
+{
+    "name": "geo/geosso",
+    "description": "composer package development",
+    "type": "library",
+    "require": {
+        "php": "5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jayxhj",
+            "email": "jayxhj@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
+
+Do you confirm generation [yes]? yes
+➜  ~
+
+01:57
+Powered by asciinema
